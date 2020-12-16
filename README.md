@@ -1,4 +1,4 @@
-# A simple script to export members from Telegram Groups and Channels to a CSV file and to automatically add members to Telegram Groups and Channels.
+# A simple script to export members from Telegram Groups and Channels to a CSV file and to automatically add members to Telegram Groups.
 
 > Exporting and adding members to channels requires the user from which the script is launched to be a Channel admin.
 
