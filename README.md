@@ -2,6 +2,9 @@
 
 > Exporting and adding members to channels requires the user from which the script is launched to be a Channel admin.
 
+### Watch this YouTube Video To Know How To Use This Script:
+[Auto Add Members In Telegram Group](https://youtu.be/WThZuzpswsw)
+
 ### Install dependencies
 
 ### **python3** and **pip3** must be installed and available in your PATH.
