@@ -13,9 +13,9 @@ import random
 import re
 
 
-api_id = 12345    #Your Api ID
-api_hash = 'XXXXXXXXXXXXXXX'    #Your Api Hash
-phone = '+11234567890'      # Your Phone Number With Country Code.
+api_id = 4792326    #Your Api ID
+api_hash = '213709e8520e1b0513dcb5e38457de26'    #Your Api Hash
+phone = '+84582016649'      # Your Phone Number With Country Code.
 client = TelegramClient(phone, api_id, api_hash)
 
 client.connect()
