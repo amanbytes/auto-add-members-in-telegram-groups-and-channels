@@ -5,6 +5,9 @@
 ### Watch this YouTube Video To Know How To Use This Script:
 [Auto Add Members In Telegram Group](https://youtu.be/WThZuzpswsw)
 
+### Read More Blogs About Termux And CyberWorld:
+[amanbytes.com](https://amanbytes.com/)
+
 ### Install dependencies
 
 ### **python3** and **pip3** must be installed and available in your PATH.
